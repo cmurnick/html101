@@ -1,4 +1,23 @@
 body {
 	background-color: pink;
+	margin: 0px;
 
 }
+
+ul {
+	list-style: none;
+	margin-top: 0px;
+
+}
+
+nav {
+	background-color: green;
+	height: 40px;
+
+}
+
+li {
+	display: inline;
+
+}
+
