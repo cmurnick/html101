@@ -35,3 +35,7 @@ td {
 .center-text {
 	text-align: center;
 }
+
+.tags {
+	margin: none;
+}
