@@ -21,3 +21,17 @@ li {
 
 }
 
+img {
+	max-width: 250px;
+}
+
+table,
+th,
+td {
+	border:	1px solid red;
+	margin: auto;
+}
+
+.center-text {
+	text-align: center;
+}
